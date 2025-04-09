@@ -4,7 +4,7 @@
 - compiler ✅
 - variables and functions ✅
 - object, arrays and tuples ✅
-- structural vs nominal types
+- structural vs nominal types ✅
 - union and intersection types
 - interfaces and type aliases
 - json types
