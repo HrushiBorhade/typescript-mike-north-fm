@@ -1,9 +1,9 @@
 # All things Typescript
 
 ## Fundamentals
-- compiler
-- variables and functions
-- object, arrrays and tuples
+- compiler ✅
+- variables and functions ✅
+- object, arrays and tuples
 - structural vs nominal types
 - union and intersection types
 - interfaces and type aliases
