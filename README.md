@@ -10,7 +10,7 @@
 - json types ✅
 - type queries ✅
 - type registry example ✅
-- callables and constructables
+- callables and constructables ✅
 - classes
 - type guards and narrowing
 - generics
