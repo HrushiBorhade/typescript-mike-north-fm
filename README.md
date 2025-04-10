@@ -5,7 +5,7 @@
 - variables and functions ✅
 - object, arrays and tuples ✅
 - structural vs nominal types ✅
-- union and intersection types
+- union and intersection types ✅
 - interfaces and type aliases
 - json types
 - type queries
