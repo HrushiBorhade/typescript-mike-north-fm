@@ -8,7 +8,8 @@
 - union and intersection types ✅
 - interfaces and type aliases ✅
 - json types ✅
-- type queries
+- type queries ✅
+- type registry example ✅
 - callables and constructables
 - classes
 - type guards and narrowing
