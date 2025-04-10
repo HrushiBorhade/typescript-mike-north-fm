@@ -7,7 +7,7 @@
 - structural vs nominal types ✅
 - union and intersection types ✅
 - interfaces and type aliases ✅
-- json types
+- json types ✅
 - type queries
 - callables and constructables
 - classes
