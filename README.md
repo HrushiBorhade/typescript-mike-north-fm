@@ -13,5 +13,5 @@
 - callables and constructables ✅
 - classes ✅
 - type guards and narrowing ✅
-- generics
+- generics ✅
 - dictionary map, filter and reduce
