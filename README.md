@@ -12,6 +12,6 @@
 - type registry example ✅
 - callables and constructables ✅
 - classes ✅
-- type guards and narrowing
+- type guards and narrowing ✅
 - generics
 - dictionary map, filter and reduce
