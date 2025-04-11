@@ -14,4 +14,4 @@
 - classes ✅
 - type guards and narrowing ✅
 - generics ✅
-- dictionary map, filter and reduce
+- dictionary map, filter and reduce ✅
