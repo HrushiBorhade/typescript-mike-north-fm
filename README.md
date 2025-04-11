@@ -11,7 +11,7 @@
 - type queries ✅
 - type registry example ✅
 - callables and constructables ✅
-- classes
+- classes ✅
 - type guards and narrowing
 - generics
 - dictionary map, filter and reduce
