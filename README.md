@@ -18,7 +18,7 @@
 
 ## Intermediate
 - Declaration Merging ✅
-- Top and Bottom Types
+- Top and Bottom Types ✅
 - Nullish Values
 - Modules and CJS Interop
 - Generics Scopes and Constraints
