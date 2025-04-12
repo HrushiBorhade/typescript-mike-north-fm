@@ -17,7 +17,7 @@
 - dictionary map, filter and reduce ✅
 
 ## Intermediate
-- Declaration Merging
+- Declaration Merging ✅
 - Top and Bottom Types
 - Nullish Values
 - Modules and CJS Interop
